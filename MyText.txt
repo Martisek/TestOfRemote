@@ -1,0 +1,4 @@
+Toto je test GIT.
+GIT je verzovaci software vytvoreny autorem Linuxu - Linusem Towardsem.
+
+GIT je super...
